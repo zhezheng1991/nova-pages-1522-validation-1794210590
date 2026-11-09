@@ -1,0 +1,18 @@
+{
+  "kind": "arcgis-nova-deployable-app",
+  "version": "0.1",
+  "generatedAt": "2026-11-09T07:53:33.869Z",
+  "title": "Pages Verification",
+  "authMode": "oauth",
+  "entry": "index.html",
+  "sourceAppPath": "outputs/apps/2026-11-09T07-53-33-e0df51b7-b210-4e5a-b16a-bdefb3cdbcbf/index.html",
+  "files": {
+    "app": "app.json",
+    "map": "map.json",
+    "runtime": "app.js",
+    "auth": "standalone-auth.js"
+  },
+  "portalUrl": "https://www.arcgis.com",
+  "appId": "pD1siHjWwqLrJrhM",
+  "deploymentUrl": "https://zhezheng1991.github.io/nova-pages-1522-validation-1794210590/"
+}
